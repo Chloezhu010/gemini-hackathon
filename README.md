@@ -1,4 +1,4 @@
-# WonderComic
+# Funova
 
 AI-powered personalized comic book stories for children using Google's Gemini API. 
 
